@@ -1,5 +1,5 @@
-# Sharing-the-Meals
-Produce an optimal allocation of preparing meals that satisfy all constraints.
+# Similarity-Detector
+Find the longest common substring between submission1 and submission2, and also similarity score for submission1 and submission2
 
 ## Read the full question here
-[Full Question](https://github.com/wongcheehao/Sharing-the-Meals/blob/main/Documents/FIT2004/A3/Assignment3.pdf)
+[Full Question](https://github.com/wongcheehao/Similarity-Detector/blob/main/Documents/FIT2004/A4/Assignment4.pdf)
